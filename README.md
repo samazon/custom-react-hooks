@@ -13,3 +13,9 @@ You can find some cool custom react hooks in this repository for you use
 5. `useWindowSize`: This hook returns the current width and height of the window.
 
 6. `useLocalStorage`: This hook allows you to easily get and set values in local storage.
+
+7. `useFormInput`: This hook returns an object with the current value and a function to update the value of a form input.
+
+8. `useFetch`: This hook makes it easy to perform HTTP requests in a functional component.
+
+9. `useOnClickOutside`: This hook adds an event listener to the document that will trigger a callback when the user clicks outside of a given element.
