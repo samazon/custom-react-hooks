@@ -19,3 +19,9 @@ You can find some cool custom react hooks in this repository for you use
 8. `useFetch`: This hook makes it easy to perform HTTP requests in a functional component.
 
 9. `useOnClickOutside`: This hook adds an event listener to the document that will trigger a callback when the user clicks outside of a given element.
+
+10. `useOnMount`: This hook runs a callback function when the component mounts.
+
+11. `useOnUnmount`: This hook runs a callback function when the component unmounts.
+
+12. `useOnScreen`: This hook returns a boolean indicating whether an element is currently in the viewport.
