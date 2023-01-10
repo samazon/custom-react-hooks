@@ -33,3 +33,5 @@ You can find some cool custom react hooks in this repository for you use
 15. `usePrevious`: This hook returns the previous value of a prop or state variable.
 
 16. `useRequireAuth`: This hook return boolean value auth, and triggers redirect is user is not logged in.
+
+17. `useLockBodyScroll`: This hook will add overflow hidden to body to lock scroll when required.
