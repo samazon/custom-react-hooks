@@ -25,3 +25,9 @@ You can find some cool custom react hooks in this repository for you use
 11. `useOnUnmount`: This hook runs a callback function when the component unmounts.
 
 12. `useOnScreen`: This hook returns a boolean indicating whether an element is currently in the viewport.
+
+13. `useRerender`: This hook returns a function that can be called to trigger a rerender of the component.
+
+14. `useUpdateEffect`: This hook is similar to useEffect, but it only runs the effect when the dependency array changes.
+
+15. `usePrevious`: This hook returns the previous value of a prop or state variable.
