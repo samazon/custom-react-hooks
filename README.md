@@ -35,3 +35,11 @@ You can find some cool custom react hooks in this repository for you use
 16. `useRequireAuth`: This hook return boolean value auth, and triggers redirect is user is not logged in.
 
 17. `useLockBodyScroll`: This hook will add overflow hidden to body to lock scroll when required.
+
+18. `useKeyboardEvent`: A custom hook that allows you to listen for and handle specific keyboard events.
+
+19. `useGeolocation`: A custom hook that retrieves the current location of the user using the browser's Geolocation API.
+
+20. `useHover`: A custom hook that tracks the hovering state of an element.
+
+21. `useClickAway`: A custom hook that detects clicks outside of a specified element.
